@@ -50,7 +50,7 @@ class _CategoryPageState extends State<CategoryPage> {
                                   },
                                   icon: Icon(
                                     Icons.arrow_back_ios,
-                                    color: Colors.white,
+                                    //color: Colors.white,
                                   )),
                               Row(
                                 mainAxisAlignment: MainAxisAlignment.end,
